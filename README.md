@@ -65,4 +65,4 @@ Al finalizar se genera un archivo `test.png` con el screenshot de la pagina visi
 el script guarda el perfil del navegador en `./paolonodes_profile/` para mantener sesion entre ejecuciones.
  
 ---
- 
+ ** codigo del 19 de noviembre del 2025 ***
